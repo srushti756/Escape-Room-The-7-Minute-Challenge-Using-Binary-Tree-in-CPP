@@ -1,0 +1,25 @@
+ESCAPE ROOM: THE 7-MINUTE CHALLENGE
+Sample run (illustrative; actual times will vary)
+
+Room 1
+Puzzle: I have hands but cannot clap. What am I?
+Your answer: clock
+Correct! You move through the left door.
+
+Room 2
+Puzzle: What has keys but cannot open locks?
+Your answer: piano
+Correct! You move through the left door.
+
+Room 4
+Puzzle: I have a face and two hands, but no arms or legs. What am I?
+Your answer: clock
+Correct! You move through the left door.
+There are no more rooms on this path.
+
+GAME SUMMARY
+Puzzles answered: 3
+Final score: 30 points
+Hints used: 0
+Rooms visited: Room 1 -> Room 2 -> Room 4
+Result: Great job! You escaped with a strong score!
